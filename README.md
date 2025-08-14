@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou a Niedja 👋
 
-<!--
-**Niedja-Fernandes/Niedja-fernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu repositório de estudos!  
+Aqui vou registrar minha evolução e projetos desenvolvidos ao longo do **primeiro semestre** do curso de **Análise e Desenvolvimento de Sistemas**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Disciplinas deste semestre
+- **Design Profissional**
+- **Algoritmos e Pensamento Computacional**
+- **Desenvolvimento Front-End para Web**
+- **Modelagem de Banco de Dados**
+
+---
+
+## 🛠️ Objetivo deste repositório
+- Organizar anotações e exercícios das disciplinas
+- Guardar pequenos projetos e testes de código
+- Registrar minha evolução como estudante
+
+---
+
+## 📅 Status de aprendizado
+| Disciplina | Status |
+|------------|--------|
+| Design Profissional | 🔄 Em andamento |
+| Algoritmos e Pensamento Computacional | ⏳ A iniciar |
+| Front-End para Web | ⏳ A iniciar |
+| Modelagem de Banco de Dados | ⏳ A iniciar |
+
+---
+
+## 📌 Atualizações
+📅 **Agosto/2025:** Início do curso e primeiras atividades 
