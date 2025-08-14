@@ -32,3 +32,5 @@ Aqui vou registrar minha evolução e projetos desenvolvidos ao longo do **prime
 
 ## 📌 Atualizações
 📅 **Agosto/2025:** Início do curso e primeiras atividades 
+## 🌐 Onde me encontrar
+[![LinkedIn](www.linkedin.com/in/niedja-fernandes-332094237)
